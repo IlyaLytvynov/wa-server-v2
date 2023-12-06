@@ -4,7 +4,7 @@
   "description": "Simple json server for trainig purpose",
   "author": "Illia Lytvynov https://github.com/IlyaLytvynov",
   "license": "ISC",
-  "main": "app.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node ./server.js",
