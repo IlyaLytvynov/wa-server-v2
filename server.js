@@ -1,4 +1,4 @@
-import app from './app.js';
+import app from './lib/app.js';
 
 // Start the server
 const port = process.env.PORT || 3000;
