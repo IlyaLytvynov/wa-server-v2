@@ -6,31 +6,39 @@
       "lastName": "Doe",
       "phone": "1234567890",
       "description": "A new team member",
-      "avatarUrl": "/images/default.png"
+      "avatarUrl": "/images/team-member-1.png"
     },
     {
       "id": "1701708449367",
-      "firstName": "John 6",
+      "firstName": "Jim",
       "lastName": "Doe",
-      "phone": "1234567890",
-      "description": "A new team member",
-      "avatarUrl": "/images/default.png"
+      "phone": "+38 (098) 198 44 24",
+      "description": "Co-Founder and CEO JIM_founder@gmail.com",
+      "avatarUrl": "/images/team-member-2.png"
     },
     {
       "id": "1701708450619",
       "firstName": "John 6",
       "lastName": "Doe",
-      "phone": "1234567890",
-      "description": "A new team member",
-      "avatarUrl": "/images/default.png"
+      "phone": "+38 (098) 198 44 24",
+      "description": "Lead Independent Director Alexandr_develop@gmail.com",
+      "avatarUrl": "/images/team-member-3.png"
     },
     {
       "id": "1701708451480",
-      "firstName": "John 6",
+      "firstName": "Winnie",
       "lastName": "Doe",
-      "phone": "1234567890",
-      "description": "A new team member",
-      "avatarUrl": "/images/default.png"
+      "phone": "+38 (098) 198 44 24",
+      "description": "Former Senior Director Winny_develop@gmail.com",
+      "avatarUrl": "/images/team-member-4.png"
+    },
+    {
+      "id": "1701708451412",
+      "firstName": "Fill",
+      "lastName": "Doe",
+      "phone": "+38 (098) 278 44 00",
+      "description": "President of Commerce Simon@gmail.com",
+      "avatarUrl": "/images/team-member-2.png"
     }
   ],
   "feedback": []
